@@ -1,7 +1,7 @@
 
 
-### Hello World! 👋 I'm Oluwasegun Adekola  
-### <div align="center">I'm a Flutter Mobile Developer and a 3D Game Developer.</div>  
+### <div align="center"> Hello World! 👋 I'm Oluwasegun Adekola  
+### I'm a Flutter Mobile Developer and a 3D Game Developer.</div>  
   
 
 - 🧠  I'm learning Laravel  
@@ -13,7 +13,7 @@
 - 🤝  I'm open to collaborating on Flutter and Game Development Projects  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I love conversations
   
 
 <br/>  
