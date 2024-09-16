@@ -13,7 +13,7 @@
 - 🤝  I'm open to collaborating on Flutter and Game Development Projects  
   
 
-- ⚡ Fun fact: I love conversations
+- ⚡ Fun fact: I love public speaking
   
 
 <br/>  
